@@ -61,7 +61,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000", "https://employ-backend-ccb20514b314.herokuapp.com", "https://eveon-employ-frontend-d5a386bd6b6f.herokuapp.com/",
+    "http://localhost:3000", "https://eveon-employ-frontend-d5a386bd6b6f.herokuapp.com",
 ]
 
 ROOT_URLCONF = 'employbackend.urls'
